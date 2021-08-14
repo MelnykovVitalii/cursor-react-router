@@ -1,23 +1,35 @@
 {
   "files": {
-    "main.css": "/cursor-react-router/static/css/main.a617e044.chunk.css",
-    "main.js": "/cursor-react-router/static/js/main.f0133d40.chunk.js",
-    "main.js.map": "/cursor-react-router/static/js/main.f0133d40.chunk.js.map",
-    "runtime-main.js": "/cursor-react-router/static/js/runtime-main.36ee025e.js",
-    "runtime-main.js.map": "/cursor-react-router/static/js/runtime-main.36ee025e.js.map",
-    "static/js/2.821400c1.chunk.js": "/cursor-react-router/static/js/2.821400c1.chunk.js",
-    "static/js/2.821400c1.chunk.js.map": "/cursor-react-router/static/js/2.821400c1.chunk.js.map",
-    "static/js/3.9ce835b2.chunk.js": "/cursor-react-router/static/js/3.9ce835b2.chunk.js",
-    "static/js/3.9ce835b2.chunk.js.map": "/cursor-react-router/static/js/3.9ce835b2.chunk.js.map",
+    "main.css": "/cursor-react-router/static/css/main.d9213aa1.chunk.css",
+    "main.js": "/cursor-react-router/static/js/main.6eed32af.chunk.js",
+    "main.js.map": "/cursor-react-router/static/js/main.6eed32af.chunk.js.map",
+    "runtime-main.js": "/cursor-react-router/static/js/runtime-main.dc1bdc35.js",
+    "runtime-main.js.map": "/cursor-react-router/static/js/runtime-main.dc1bdc35.js.map",
+    "static/js/2.07af7f0c.chunk.js": "/cursor-react-router/static/js/2.07af7f0c.chunk.js",
+    "static/js/2.07af7f0c.chunk.js.map": "/cursor-react-router/static/js/2.07af7f0c.chunk.js.map",
+    "static/js/3.5f88b8df.chunk.js": "/cursor-react-router/static/js/3.5f88b8df.chunk.js",
+    "static/js/3.5f88b8df.chunk.js.map": "/cursor-react-router/static/js/3.5f88b8df.chunk.js.map",
     "index.html": "/cursor-react-router/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/cursor-react-router/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.821400c1.chunk.js.LICENSE.txt": "/cursor-react-router/static/js/2.821400c1.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/cursor-react-router/static/media/logo.6ce24c58.svg"
+    "static/css/main.d9213aa1.chunk.css.map": "/cursor-react-router/static/css/main.d9213aa1.chunk.css.map",
+    "static/js/2.07af7f0c.chunk.js.LICENSE.txt": "/cursor-react-router/static/js/2.07af7f0c.chunk.js.LICENSE.txt",
+    "static/media/gender-female.f4d3c0db.svg": "/cursor-react-router/static/media/gender-female.f4d3c0db.svg",
+    "static/media/gender-male.8c55021b.svg": "/cursor-react-router/static/media/gender-male.8c55021b.svg",
+    "static/media/gender-undefined.fed7cf99.svg": "/cursor-react-router/static/media/gender-undefined.fed7cf99.svg",
+    "static/media/img1.bf963eec.jpg": "/cursor-react-router/static/media/img1.bf963eec.jpg",
+    "static/media/img2.5c81e426.jpg": "/cursor-react-router/static/media/img2.5c81e426.jpg",
+    "static/media/img3.713539c5.jpg": "/cursor-react-router/static/media/img3.713539c5.jpg",
+    "static/media/img4.6320f0ff.jpg": "/cursor-react-router/static/media/img4.6320f0ff.jpg",
+    "static/media/img5.45998387.jpg": "/cursor-react-router/static/media/img5.45998387.jpg",
+    "static/media/img6.d8bd8700.jpg": "/cursor-react-router/static/media/img6.d8bd8700.jpg",
+    "static/media/img7.0f83f926.jpg": "/cursor-react-router/static/media/img7.0f83f926.jpg",
+    "static/media/img8.7d62d637.jpg": "/cursor-react-router/static/media/img8.7d62d637.jpg",
+    "static/media/img9.47bf6c21.jpg": "/cursor-react-router/static/media/img9.47bf6c21.jpg",
+    "static/media/photo.7429ff02.jpg": "/cursor-react-router/static/media/photo.7429ff02.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.36ee025e.js",
-    "static/js/2.821400c1.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.f0133d40.chunk.js"
+    "static/js/runtime-main.dc1bdc35.js",
+    "static/js/2.07af7f0c.chunk.js",
+    "static/css/main.d9213aa1.chunk.css",
+    "static/js/main.6eed32af.chunk.js"
   ]
 }
