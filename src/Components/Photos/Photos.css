@@ -1,0 +1,30 @@
+.photo__wrapper {
+	max-width: 1200px;
+	width: 100%;
+	margin: 0 auto;
+	padding: 50px 0px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.photo__block {
+	position: relative;
+	/* flex: 1 1 33.33%; */
+	max-width: 360px;
+	max-height: 300px;
+	width: 100%;
+	margin: 10px;
+}
+
+.photo {
+	display: block;
+	position: relative;
+	padding: 5px;
+	background: aliceblue;
+	object-fit: cover;
+	max-width: 360px;
+	width: 100%;
+	height: 300px;
+	box-sizing: border-box;
+}
